@@ -20,7 +20,7 @@ I tried to keep everything simple so that anyone can understand it easily.
 
 ## Setup Instructions
 
-1. Installed Node.js on my system.
+1. Install Node.js on the system.
 2. Download or clone this project folder.
 3. Open the folder in terminal and run:  npm install
 4. Now I can use the app with the commands shown below.
